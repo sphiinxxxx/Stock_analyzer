@@ -8,7 +8,7 @@
  
 <div align="center">
    <strong>Stock Market Analyzer</strong> - This web app uses machine learning to analyse the stock market. <br>
-  Inheritance '21 - Team S.T.A.R. <br> <br>
+  Inheritance '21<br> <br>
   <a href="https://github.com/toshan-luktuke/stock-market-analyser/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/toshan-luktuke/stock-market-analyser?color=red&style=for-the-badge"></a>
   <a href="https://github.com/toshan-luktuke/stock-market-analyser/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/toshan-luktuke/stock-market-analyser?style=for-the-badge"></a>
   <a href="https://img.shields.io/github/contributors/toshan-luktuke/stock-market-analyser?logo=GitHub&logoColor=red&style=for-the-badge"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/toshan-luktuke/stock-market-analyser?logo=GitHub&style=for-the-badge"></a>
