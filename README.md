@@ -1,7 +1,6 @@
 <h1 align="center">
   
-    <img src="https://static8.depositphotos.com/1010683/891/i/600/depositphotos_8910408-stock-photo-stock-market-price-abstract.jpg" alt="Stock Photo" width="125" height="125">
-  </a>
+  
   <br>
   Stock Market Analyzer 
 </h1>
